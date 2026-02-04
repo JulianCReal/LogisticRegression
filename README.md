@@ -139,7 +139,7 @@ np.save('heart_disease_model.npy', model_params)
 
 #### 1. Sagemaker Notebook
 1. Create and execute a JupyterLAb:
-![alt text](image.png)
+![alt text](screenshots/image.png)
 
 2. Upload fyles:
 - HeartDeseaseRisk.ipynb
@@ -147,9 +147,13 @@ np.save('heart_disease_model.npy', model_params)
 - inference.py
 
 3. Run notebook:
-![alt text](image-1.png)
+![alt text](screenshots/image-1.png)
 
-4. 
+4. compress the model:
+![alt text](screenshots/image-2.png)
+generate model.tar.gz
+
+5. 
 ### Local Execution
 
 1. **Download Dataset**
@@ -172,10 +176,6 @@ np.save('heart_disease_model.npy', model_params)
 1. **Dataset:** Janosi, A., Steinbrunn, W., Pfisterer, M., & Detrano, R. (1988). Heart Disease. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X
 
 2. **AWS SageMaker Documentation:** https://docs.aws.amazon.com/sagemaker/
-
-## Repository Information
-
-**GitHub Repository:** `https://github.com/JulianCReal/LogisticRegression.git`
 
 ### File Descriptions
 
