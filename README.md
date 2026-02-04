@@ -6,7 +6,7 @@ This project implements **logistic regression from scratch** to predict heart di
 
 ### Exercise Summary
 
-The project implements end-to-end machine learning pipeline including:
+The project implements end-to-end machine learning:
 - **Exploratory Data Analysis (EDA):** Data exploration, visualization, and preprocessing
 - **Model Implementation:** Sigmoid function, binary cross-entropy cost, gradient descent optimization
 - **Visualization:** Decision boundary plots for multiple feature pairs
